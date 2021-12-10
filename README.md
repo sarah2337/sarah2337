@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sarah2337
-- 👀 I’m interested in teaching CPR classes in my local area. 
+- 👋 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
